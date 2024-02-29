@@ -1,0 +1,237 @@
+Mark Lawrence - Male
+Martin Kleppmann - Male
+Anthony Kiedis - Male
+Julius Caesar - Male
+Michael Wolff - Male
+Aldous Huxley - Male
+Adam Kay - Male
+Albrect Wacker - Male
+Amin Maalouf - Male
+Eugene Rogan - Male
+Douglas Adams - Male
+Allan Roper - Male
+Bob Martin - Male
+Pierce Brown - Male
+Fyodor Dostoyevsky - Male
+Kim Zetter - Female
+Nick Bilton - Male
+Bill Bryson - Male
+Michael Alan Singer - Male
+Max Hastings - Male
+Terry Hayes - Male
+Eric Hobsbawn - Male 
+James Barr - Male
+Liaqat Ahamed - Male
+Tim Marshall - Male
+Steven Lee Myers - Male
+Rob Dix - Male
+Peter Frankopan - Male
+Edith Eva Eger - Female
+Phillip Meyer - Male
+Kerry Daynes - Female
+Roger Crowley - Male
+Mike Duncan - Male
+George Orwell - Male
+Dan Simmons - Male
+Lawrence Wright - Male
+Peter Green - Male
+Gene Kim - Male
+Greg Milner - Male
+Mark Haddon - Male
+Alex Michaelides - Male
+Samantha Shannon - Female
+John Carreyrou - Male
+Peter Padfield - Male
+Max Hastings - Male
+Edward Snowden - Male
+James S. A. Corey - Male
+Douglas Murray - Male
+Andy Greenberg - Male
+Eric Ries - Male
+Marcus Aurelius - Male
+Owen Jones - Male
+Daron Acemoglu, James Robinson - Male, Male
+Max Brooks - Male
+Andy Hunt, Dave Thomas - Male, Male
+David Epstein - Male
+Frank Herbert - Male
+Jeff Vandermeer - Male
+Ben Macintyre - Male
+Plato - Male
+Brian McClellan - Male
+Eliyahu M. Goldratt - Male
+Michael Cox - Male
+Stephen Fry - Male
+Michael Lewis - Male
+Ray Dalio - Male
+Carl Sagan - Male
+Roger Crowley - Male
+Gary Chapman - Male
+Phil Knight - Male
+Vincent Bugliosi, Curt Gentry - Male, Male
+Paul Kalanithi - Male
+Oscar Wilde - Male
+Russ Harris - Male
+Peter Singer - Male
+Walter Isaacson - Male
+Jordan B. Peterson - Male
+Jim Butcher - Male
+Ian Kershaw - Male
+Sam Anderson - Male
+Meghan Majumdar - Female
+Vladimir Nabokov - Male
+Delia Owens - Female
+Charles Darwin - Male
+Abhijit Banerjee, Esther Duflo - Male, Female
+Alfred Lansing - Male
+Cormac McCarthy - Male
+Fyodor Dostoevsky - Male
+Chris Voss - Male
+Artur Ejsmont - Male 
+J. P. Delaney - Male
+Dan Jones - Male
+Richard Dawkins - Male
+Carl Jung - Male
+Blake Crouch - Male
+Ernest Becker - Male
+Walter Isaacson - Male
+Viktor E. Frankl - Male
+Douglas R. Hofstadter - Male
+George Orwell - Male
+Ryan Holiday - Male
+Stephen Fry - Male
+David J. Schwartz - Male
+Yuval Noah Harari - Male
+Bill Gates - Male
+Saifedean Ammous - Male
+Markus Zusak - Male
+Blake Masters, Peter Thiel - Male, Male
+James Watson - Male
+Aurelien Geron - Male
+Aleksandr Solzhenitsyn - Male
+Richard Feynman - Male
+David Goggins - Male
+Niccolò Machiavelli - Male
+A.C. Grayling - Male
+Nassim Nicholas Taleb - Male
+Greg McKeown - Male
+John Gwynne - Male
+Javier Blas, Jack Farchy - Male, Male
+William Gibson - Male
+Ben Macintyre - Male
+Seneca - Male
+Dino Buzzati - Male
+Daniel Everett - Male
+Michael Malice - Male
+Simon Sebag Montefiore - Male
+Tobias Macey - Male
+Mark Mathabane - Male
+Jared Diamond - Male
+William Shakespeare - Male
+Matthew Walker - Male
+Aristotle - Male
+Patrick Radden Keefe - Male
+Alex Belos - Male
+Eric Barker - Male
+Rutger Bregman - Male
+Leonard Thompson - Male
+Gregor Hohpe - Male
+Ben Horowitz - Male
+Hanya Yanagihara - Female
+Mohnish Pabrai - Male
+David Foster Wallace - Male
+Siddhartha Mukherjee - Male
+Albert Camus - Male
+Andy Weir - Male
+Oscar Wilde - Male
+Patrick Radden Keefe - Male
+Rob Fitzpatrick - Male
+Eric Jorgenson - Male
+Leo Tolstoy - Male
+Walter Isaacson - Male
+Adrian Tchaikovsky - Male
+Primo Levi - Male
+Andrew Chen - Male
+Trevor Noah - Male
+George Orwell - Male
+Morgan Housel - Male
+Mary Shelley - Female
+Michael Smith - Male
+Ray Bradbury - Male
+Martin Sixsmith - Male
+Louisa Lim - Female
+Cicero - Male
+Arkady Martine - Female 
+Kevin Rudd - Male
+Richard Fidler - Male
+Julie Zhuo - Female
+Tony Fadell - Male
+Fyodor Dostoevsky - Male
+Peter Zeihan - Male
+Stephen King - Male
+Kazuo Ishiguro - Male
+Joe Reis, Matt Housley - Male, Male
+Iris Chang - Female
+Daniel Coyle - Male
+John Birmingham - Male
+Neil Gaiman - Male
+Sebastian Mallaby - Male
+Hermann Hesse - Male
+Ken Liu - Male
+James Holland - Male
+Brandon Sanderson - Male
+Richard Dawkins - Male
+Malcolm X, Alex Haley - Male, Male
+Michael Sheridan - Male
+Harper Lee - Female
+Stephen Fry - Male
+James Hawes - Male
+Brené Brown - Female
+Ted Chiang - Male
+Matthew MacAdam Leising - Male
+John le Carré - Male
+Cal Newport - Male
+Bret Easton Ellis - Male
+Jeremy Bowen - Male
+Joe Abercrombie - Male
+Alexandre Dumas - Male
+Cole Nussbaumer Knaflic - Female
+Steven Pressfield - Male
+Ursula K. Le Guin - Female
+Bessel van der Kolk - Male
+Peter Singer - Male
+Michelle Alexander - Female
+Edward O. Thorp - Male
+Xenophon - Male
+Philip K. Dick - Male
+Anthony Bourdain - Male
+Edward Chancellor - Male
+Michael Parenti - Male
+Paul Millerd - Male
+Margaret Atwood - Female
+Jon Bodner - Male
+James Clear - Male
+Jon Krakauer - Male
+Fintan O'Toole - Male
+James Islington - Male
+Chris Miller - Male
+Aditya Y. Bhargava - Male
+Charles Dickens - Male
+Olivia Fox Cabane - Female
+Oscar Wilde - Male
+Pierce Brown - Male
+Nicolas Cole - Male
+William Shakespeare - Male
+Exurb1a - Male
+John Vaillant - Male
+Zeke Faux - Male
+Noam Nisan, Shimon Schoken - Male, Male
+Michael Lewis - Male
+Walter Isaacson - Male
+Sahil Lavingia - Male
+Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor - Male, Female, Male, Male, Male
+Douglas Adams - Male
+Tom Holland - Male
+Ernest Cline - Male
+J. R. R. Tolkien - Male
+George Orwell - Male
